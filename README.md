@@ -1,1 +1,2 @@
-# cuddleclones-automation
+# npm install
+# npm run cyMocha
