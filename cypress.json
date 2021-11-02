@@ -1,0 +1,11 @@
+{
+    "baseUrl": "https://cuddleclones.com",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+        "charts": true,
+        "overwrite": true,
+        "html": true,
+        "json": true,
+        "reportDir": "mochawesome-report"
+      }
+}
